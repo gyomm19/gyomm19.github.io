@@ -5,7 +5,7 @@
 var windowwidth = window.innerWidth || document.documentElement.clientWidth || 0;
     if (windowwidth > 768){
       var responsiveImage = [//PC用の画像
-        { src: 'https://lh3.googleusercontent.com/pw/AJFCJaWRSrAaaWsTNI2EZoOo4kkvvsLrmWTqvGD_vLJQ1ZF47eTyQ_0_MOclRgajU3ibONd9NX5FFjZcxR4YCytaxEITLtS7fll6rK9Di0SjFswVBKWYMXU=w480-h320-p-k'},
+        { src: 'https://lh3.googleusercontent.com/pw/AJFCJaWRSrAaaWsTNI2EZoOo4kkvvsLrmWTqvGD_vLJQ1ZF47eTyQ_0_MOclRgajU3ibONd9NX5FFjZcxR4YCytaxEITLtS7fll6rK9Di0SjFswVBKWYMXU=w2000-h320-p-k'},
         { src: 'https://lh3.googleusercontent.com/WL7YmxgpD4tgQJWCCC88B3fu_9QpgihD_MmBHi2-A7Ex4yNKPMSbOiuQZ5GhjhzdhBKw3fFdVKWuaVZDGguL0R8WozjVb6RQLHuQU3gldNtjtbgB-gws3daJL1WITkOyZVF4vYQPvw=w480-h320-p-k'},
         { src: 'https://lh3.googleusercontent.com/j9JDASBhE7ICohEf0mmvXtWmrPzAE0T0hTfDBIXllwDKcGdsQF2JKqu7uB3KydfyRMeE-ku9VJnYIcby9QFGNeHHqdonX_qliZmKEjupkjmi8q78pyp7Bl_gKIl3fV8NgS507tFvfw=w480-h320-p-k'},
         { src: "https://lh3.googleusercontent.com/v1GXkLaB67Zds8IxdUhUJUITBnqnGgIm4fAVl2krLsEGKH3mWr-_JRSHPez8Za1uTiyw0dBVuNh55VDECnWV778ZG5nAzj6SWzNmY14hNDOKJH2RhKkT5Juvg5c3ByTJJu3a5Jvybw=w480-h320-p-k"},
